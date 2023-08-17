@@ -16,4 +16,9 @@ public void modify()
 {
 	System.out.println("modified succesfully");
 }
+@Test
+public void deletethisshit()
+{
+	System.out.println("----i am dongo---");
+}
 }
