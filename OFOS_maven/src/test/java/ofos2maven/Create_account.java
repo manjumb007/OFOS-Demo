@@ -27,6 +27,10 @@ public void sherolock1()
 {
 	System.out.println("noshitsherolock-------");
 }
+public void she()
+{
+	System.out.println("-----he------");
+}
 
 
 }
