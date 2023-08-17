@@ -1,4 +1,4 @@
-package ofosmaven;
+package ofos2maven;
 
 import org.testng.annotations.Test;
 
