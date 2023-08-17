@@ -1,4 +1,4 @@
-package ofos2maven;
+package ofosmaven;
 
 import org.testng.annotations.Test;
 
@@ -16,21 +16,9 @@ public void modify()
 {
 	System.out.println("modified succesfully");
 }
-
-@Test(groups = "regression")
-public void sherolock()
+@Test
+public void deletethisshit()
 {
-	System.out.println("noshitsherolock");
+	System.out.println("----i am dongo---");
 }
-@Test(groups = "regression")
-public void sherolock1()
-{
-	System.out.println("noshitsherolock-------");
-}
-public void she()
-{
-	System.out.println("-----he------");
-}
-
-
 }
